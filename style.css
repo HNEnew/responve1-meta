@@ -1,0 +1,150 @@
+*{
+    max-width: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.meta-logo1{
+    width: 175px;
+    margin-top: -3px;
+    margin-left: -25px;
+}
+.logo1-text{
+    color: #53565a;
+    font-size: 17px;
+    line-height: 30px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+}
+.bottomline{
+    border-bottom: 1px solid #dddfe4;
+}
+#bottomline{
+    border-bottom: 5px solid #dddfe4;
+}
+.btn-outline-success{
+    border-color: #dddfe4;
+    color: #6A7180;
+}
+section{
+    background-color: #e5e5e5;
+}
+.row1{
+    padding: 5%;
+}
+.row{
+    padding: 2%;
+    background-color: #e5e5e5;
+}
+.box{
+    background-color: #fff;
+}
+.link-l1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.list-ls1{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.title1{
+    font-size: x-large;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.li-elmntt2{
+    margin-top: 50px;
+    margin-bottom: -30px;
+    margin-right: 10%;
+    color: #3c5b9a;
+    font-size: small;
+    
+}
+.mleft{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.link-l2{
+    color: #3c5b9a;
+}
+.link-l2:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.text-t1{
+    color: #878e9b;
+}
+.row3{
+    background-color: #fff;
+}
+.textdiv{
+    background-color: #fff;
+}
+.icd1{
+    background-color: #3c5b9a;
+}
+.icd2{
+    background-color: #466ab3;
+}
+.icd3{
+    background-color: #5079cc;
+}
+.icd4{
+    background-color: #5a88e6;
+}
+.text-t3{
+    color: #fff;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.icon{
+    width: 50px;
+    margin-left: 30px;
+}
+.text-t3:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.icon:hover{
+    cursor: pointer;
+}
+.ftd-1{
+    background-color: #fff;
+}
+.ft-1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #6A7180;
+    font-size: 14px;
+}
+.ft-1:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.smlist{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.smicons{
+    width: 30px;
+    margin: 10px;
+}
+.smicons:hover{
+    cursor: pointer;
+}
+.flinks,.f-lasttext{
+    color: #898f9c;
+    font-size: 12px;
+    text-align: center;
+}
+.flinks:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.indiv2{
+    padding-left: 5%;
+    padding-right: 3%;
+}
